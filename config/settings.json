@@ -1,0 +1,13 @@
+{
+  "github_name": "jiukunz",
+  "author_name": "Zhang JiuKun",
+  "author_email": "jiukunz@gmail.com",
+  "blog_title": "行久",
+  "description": "A blogging framework for real hackers",
+  "homepage": "sf.jiukun.us",
+  "theme": "lumen",
+  "ghpage_repo": "https://github.com/jiukunz/blogist.git",
+  "branch": "gh-pages",
+  "google_analystic": "",
+  "settings": true
+}
